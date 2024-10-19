@@ -12,6 +12,7 @@ I'm a 21-year-old student currently studying Information Technology at EPHEC, Lo
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-00599C?style=for-the-badge&logo=linux&logoColor=white)
+![NetAcad](https://img.shields.io/badge/NetAcad-003B57?style=for-the-badge&logo=cisco&logoColor=white)
 
 
 
