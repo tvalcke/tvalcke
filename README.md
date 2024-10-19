@@ -1,3 +1,5 @@
 ## Hi there 👋
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 [![](https://visitcount.itsvg.in/api?id=tvalcke&label=Profile%20Views&color=2&icon=1&pretty=true)](https://visitcount.itsvg.in)
