@@ -23,9 +23,10 @@ I'm a 21-year-old student currently studying Information Technology at EPHEC, Lo
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tvalcke&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=tvalcke&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tvalcke&theme=dark&hide_border=true)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tvalcke&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tvalcke&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800)
+
 
 
 ---
